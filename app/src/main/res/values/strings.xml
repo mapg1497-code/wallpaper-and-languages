@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Fondo y languages</string>
+    <string name="bienvenido_text" translatable="false">Bienvenido</string>
+    <string name="entrar_button" translatable="false">Entrar</string>
+</resources>
